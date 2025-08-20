@@ -1,6 +1,5 @@
-# 🎬 Movie Database (HTML & CSS)
+# 🎬 Movie Database (HTML & CSS) 
 
-## 📌 Overview
 This project is a **simple Movie Database webpage** built using **HTML & CSS**.  
 It displays a collection of popular Telugu movies in a clean and well-styled **HTML table** with details such as:
 
