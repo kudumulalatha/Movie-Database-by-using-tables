@@ -32,8 +32,8 @@ The table is styled for better readability with alternating row colors, hover ef
 
 ## 📂 Project Structure
 - movie-database/
--- index.html # Main webpage containing movie database table
--- README.md # Project documentation
+  - index.html # Main webpage containing movie database table
+  - README.md # Project documentation
 
 ---
 
@@ -41,18 +41,21 @@ The table is styled for better readability with alternating row colors, hover ef
 1. Download or clone this repository:
    ```bash
    git clone https://github.com/your-username/movie-database.git
-
-   
   2. Open the project folder.
-   
-  3.Run index.html in any web browser.
+
+  3. Run index.html in any web browser.
 
 ## 🎯 Future Enhancements
 
-  -- 🔍 Add search & filter functionality (by year, rating, or genre)
+  1. 🔍 Add search & filter functionality (by year, rating, or genre)
+  2. 📱 Make fully responsive for mobile screens
+  3. 📊 Integrate with a backend/database (MySQL, MongoDB, etc.)
+  4. 🤖 Add a recommendation system using Machine Learning
 
-  -- 📱 Make fully responsive for mobile screens
 
-  -- 📊 Integrate with a backend/database (MySQL, MongoDB, etc.)
+  ## 👩‍💻 Author & Date
+   - **Kudumula Latha**  
+     B.Tech – Computer Science & Engineering (Cyber Security)  
+     Mohan Babu University  
+   - 📆 Date: August 18, 2025
 
-  -- 🤖 Add a recommendation system using Machine Learning
